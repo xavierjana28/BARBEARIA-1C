@@ -1,0 +1,14 @@
+header {
+    background-color: blueviolet;
+    color: white;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+footer {
+    background-color: blue;
+    color: lightskyblue;
+}
