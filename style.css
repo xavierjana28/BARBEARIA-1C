@@ -12,3 +12,9 @@ footer {
     background-color: blue;
     color: lightskyblue;
 }
+
+.imagem-2 {
+    width: 40%;
+    align-items: center;
+    margin-left: 200px;
+}
